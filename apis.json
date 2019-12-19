@@ -1,0 +1,56 @@
+{
+    "name": "Toopher",
+    "description": "If a site is using Toopher, you put in your username and password and you're immediately sent a push notification to your phone telling you the who, what, where, and when of your login. If it's you, click \"allow\" and you're automatically granted access...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1850-toopher.jpg",
+    "tags": [
+        "have api",
+        "identities"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/toopher\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Toopher",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1850-toopher.jpg",
+            "humanURL": "https:\/\/www.toopher.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/toopher-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.toopher.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/toopher"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/toopher"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/dev.toopher.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/toopher"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.toopher.com\/"
+        }
+    ]
+}
